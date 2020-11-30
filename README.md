@@ -6,6 +6,9 @@ In this repository you will find the schematics and board layouts created in KiC
 
 *Fork me and have fun!*
 
+![MateLight on 36c3](https://git.cccgoe.de/jugendgruppe/website/-/raw/master/res/pic/MateLight36c3.jpg)
+**MateLight of CCC youth group Göttingen at the 36c3 event 2019 in Leipzig**
+
 
 ## 3D View
 
