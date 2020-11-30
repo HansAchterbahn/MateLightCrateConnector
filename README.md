@@ -9,23 +9,23 @@ In this repository you will find the schematics and board layouts created in KiC
 
 ## 3D View
 
-FreeCAD Model: [3d/MateLightCrateConnector.FCStd](https://github.com/HansAchterbahn/MateLightScrewCap/blob/master/3d/MateLightCrateConnector.FCStd)
-Animated 3D STL model: [3d/MateLightCrateConnector.stp](https://github.com/HansAchterbahn/MateLightScrewCap/blob/master/3d/MateLightCrateConnector.stl)
+FreeCAD Model: [3d/MateLightCrateConnector.FCStd](https://github.com/HansAchterbahn/MateLightCrateConnector/blob/master/3d/MateLightCrateConnector.FCStd)
+Animated 3D STL model: [3d/MateLightCrateConnector.stl](https://github.com/HansAchterbahn/MateLightCrateConnector/blob/master/3d/MateLightCrateConnector.stl)
 
 __Top view__
 
-![3D top view](doku/3D-Top.png)
+![3D top view](doc/3D-Top.png)
 
 __Bottom view__
 
-![3D bottom view](doku/3D-Bottom.png)
+![3D bottom view](doc/3D-Bottom.png)
 
 
 ## Schematic
 
-![Schematic view](doku/Schematic.png)
+![Schematic view](doc/Schematic.png)
 
 
 ## Board
 
-![Board top view](doku/Board.png)
+![Board top view](doc/Board.png)
