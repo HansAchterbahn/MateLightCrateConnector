@@ -1,4 +1,4 @@
-# MateLightScrewCap
+# MateLight-CrateConnector
 
 This repo is an addition to the MateLightScrewCap and enhances it with a crate connector PCB. The PCB not only allows easy connection of the crates, but also easy power supply between the crates. This is useful to avoid power transfer problems, voltage drops and heat problems.
 
